@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Mahek  
 
-🎓 Second-year Computer Science student | 🤖 Exploring AI & Machine Learning | 💻 Passionate about Software Engineering  
+🎓 Second-year Computer Science student |  Exploring AI & Machine Learning | 💻 Passionate about Software Engineering  
 
 ---
 
