@@ -1,10 +1,10 @@
-# 👋 Hey, I'm Mahek  
+#  Hey, I'm Mahek  
 
 🎓 Second-year Computer Science student |  Exploring AI & Machine Learning | 💻 Passionate about Software Engineering  
 
 ---
 
-## 🌱 About Me  
+##  About Me  
 - 📖 Currently diving deeper into **data structures, algorithms, and Python projects**  
 - 🤖 Building my foundation in **AI & ML concepts**  
 - 💡 Curious about how technology can solve real-world problems  
@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Skills & Interests  
+##  Skills & Interests  
 - **Languages:** Python, C++ (learning & practicing)  
 - **Areas of Interest:**  
   - Artificial Intelligence & Machine Learning  
