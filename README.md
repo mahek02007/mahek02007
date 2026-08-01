@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Mahek  
+# 👋 Hey!, I'm Mahek  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Computer+Engineering+Student;AI+%26+ML+Enthusiast;Java+DSA+Explorer;Always+Learning+%26+Building)](https://git.io/typing-svg)
 
 ![AI](https://img.shields.io/badge/Focus-AI%20%26%20ML-blue?style=for-the-badge&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/DSA-Java-orange?style=for-the-badge&logo=java&logoColor=white)  
@@ -36,21 +38,18 @@
 - 📚 **Java DSA Practice Repo** – Collection of solved problems and algorithms  
 
 ---
-
-## 📊 GitHub Stats  
-![Mahek's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+  
 
 ---
 
 ## 📫 Connect With Me  
-[![https://www.linkedin.com/in/mahek-tamboli-847b0b37a/](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](#)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](#)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahek-tamboli-847b0b37a/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tambolimahek452@gmail.com)  
 
 ---
 
 ✨ *"Code, learn, innovate — repeat."*  
- 
+
 
 
