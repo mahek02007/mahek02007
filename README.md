@@ -2,7 +2,7 @@
 
 ![AI](https://img.shields.io/badge/Focus-AI%20%26%20ML-blue?style=for-the-badge&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/DSA-Java-orange?style=for-the-badge&logo=java&logoColor=white)  
-![GitHub](https://img.shields.io/badge/Open%20Source-Lover-black?style=for-the-badge&logo=github)  
+![GitHub](https://img.shields.io/badge/Open%20Source-Enthusiast-black?style=for-the-badge&logo=github)  
 
 ---
 
@@ -44,12 +44,13 @@
 ---
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](#)  
+[![https://www.linkedin.com/in/mahek-tamboli-847b0b37a/](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](#)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](#)  
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
 
 ---
 
 ✨ *"Code, learn, innovate — repeat."*  
+ 
 
 
