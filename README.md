@@ -35,10 +35,9 @@
 ## 📌 Featured Projects  
 - 🛰️ **Satellite Image Preprocessing** – NDVI, RGB composites, tiling with Rasterio  
 - 🔐 **AI Cyber Safety Advisor** – Detects scams, phishing, and malware risks  
-- 📚 **Java DSA Practice Repo** – Collection of solved problems and algorithms  
+
 
 ---
-  
 
 ---
 
