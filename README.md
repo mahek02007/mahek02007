@@ -1,41 +1,55 @@
-#  Hey, I'm Mahek  
+# 👋 Hi, I'm Mahek  
 
-🎓 Second-year Computer Science student |  Exploring AI & Machine Learning | 💻 Passionate about Software Engineering  
-
----
-
-##  About Me  
-- 📖 Currently diving deeper into **data structures, algorithms, and Python projects**  
-- 🤖 Building my foundation in **AI & ML concepts**  
-- 💡 Curious about how technology can solve real-world problems  
-- 🚀 Always improving myself through coding challenges and hands-on projects  
+![AI](https://img.shields.io/badge/Focus-AI%20%26%20ML-blue?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/DSA-Java-orange?style=for-the-badge&logo=java&logoColor=white)  
+![GitHub](https://img.shields.io/badge/Open%20Source-Lover-black?style=for-the-badge&logo=github)  
 
 ---
 
-##  Skills & Interests  
-- **Languages:** Python, C++ (learning & practicing)  
-- **Areas of Interest:**  
-  - Artificial Intelligence & Machine Learning  
-  - Software Engineering & Debugging  
-  - Remote sensing & satellite image processing  
-  - Cloud computing basics (AWS)  
-- **Other Passions:** Cricket 🏏, electronics ⚡, and exploring startup ideas 💡  
+## 🚀 About Me  
+🎓 Computer Engineering Student  
+💡 Strong interest in **Artificial Intelligence** & **Machine Learning**  
+🔧 Practicing **Data Structures & Algorithms in Java**  
+🌱 Always learning, building, and innovating  
 
 ---
 
-## 📌 Current Focus  
-- 🔍 Strengthening my coding skills with **Python projects**  
-- 🧩 Learning the basics of **ML frameworks** like TensorFlow & Scikit-learn  
-- 📚 Preparing for internships and opportunities to grow in **AI-driven development**  
+## 🛠️ Tech Stack  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=flat&logo=tensorflow&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+
+---
+
+## 🌟 Current Focus  
+- 🤖 Building **AI/ML projects**  
+- 🔍 Practicing **DSA in Java**  
+- 🚀 Preparing for **software engineering opportunities**  
+
+---
+
+## 📌 Featured Projects  
+- 🛰️ **Satellite Image Preprocessing** – NDVI, RGB composites, tiling with Rasterio  
+- 🔐 **AI Cyber Safety Advisor** – Detects scams, phishing, and malware risks  
+- 📚 **Java DSA Practice Repo** – Collection of solved problems and algorithms  
+
+---
+
+## 📊 GitHub Stats  
+![Mahek's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
 
 ---
 
 ## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mahek-tamboli-847b0b37a/)  
-
-- ✉️ Email: tambolimahek451gmail.comm 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](#)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](#)  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
 
 ---
 
-✨ *"Learning today, innovating tomorrow."*  
+✨ *"Code, learn, innovate — repeat."*  
+
 
