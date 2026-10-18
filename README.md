@@ -36,9 +36,7 @@
 ✨ *"Code. Learn. Innovate. Repeat."*  
 
 
----
 
-✨ *"Code, learn, innovate — repeat."*  
 
 
 
