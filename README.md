@@ -1,101 +1,169 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:080914,40:21123D,100:6D28D9&height=250&section=header&text=MAHEK%20TAMBOLI&fontSize= fifty&fontColor=EDE9FE&fontAlignY=42&desc=COMPUTER%20ENGINEERING%20%7C%20AI%2FML%20EXPLORER&descSize=15&descAlignY=62&descColor=C4B5FD" width="100%" alt="Mahek Tamboli profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:050510,35:17102F,70:392078,100:090719&text=MAHEK%20TAMBOLI&fontSize=50&fontColor=EDE9FF&fontAlignY=42&desc=DEVELOPER%20SYSTEM%20%2F%20AI%20%26%20TECHNOLOGY&descSize=15&descAlignY=62&descColor=C4B5FD" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=800&color=BFA7FF&center=true&vCenter=true&width=700&lines=SYSTEM+INITIALIZED...;COMPUTER+ENGINEERING+STUDENT;AI%2FML+EXPLORER;JAVA+%7C+DSA+%7C+WEB+DEVELOPMENT;LEVELING+UP+THROUGH+CODE" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;Exploring+Artificial+Intelligence+%26+ML;Practising+DSA+in+Java;Building+Projects+with+Purpose" alt="Typing introduction"/>
-
-<br/>
-
-<a href="https://github.com/mahek02007">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/mahek-tamboli-847b0b37a/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=mahek02007&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
-
-<br/><br/>
-
-**✦ LEARN WITH CURIOSITY • BUILD WITH PURPOSE • GROW BY SHARING ✦**
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-8B5CF6?style=for-the-badge&labelColor=100B20"/>
+<img src="https://img.shields.io/badge/CLASS-DEVELOPER-6D28D9?style=for-the-badge&labelColor=100B20"/>
+<img src="https://komarev.com/ghpvc/?username=mahek02007&style=for-the-badge&color=8B5CF6&label=VISITORS"/>
 
 </div>
 
 ---
 
-## ◈ 01 / ABOUT ME
+<table>
+<tr>
+<td width="30%" align="center" valign="middle">
 
-<img align="right" width="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahek02007&layout=compact&hide_border=true&bg_color=0B0B18&title_color=C4B5FD&text_color=E5E7EB" alt="Top languages"/>
+<img src="https://github.com/mahek02007.png" width="170" style="border-radius:50%;" alt="Mahek's GitHub avatar"/>
 
-Hey there! I'm **Mahek Tamboli**, a Computer Engineering student who enjoys learning by building, experimenting with new technologies, and solving problems through code.
+### MAHEK TAMBOLI
 
-- 🤖 Passionate about **Artificial Intelligence and Machine Learning**
-- 🧩 Practising **Data Structures and Algorithms in Java**
-- 🌐 Exploring **web development** and building useful web projects
-- 🛠️ Strengthening my programming, debugging, and software development fundamentals
-- 🌱 Learning through projects, courses, hackathons, and developer communities
-- 🤝 Open to collaborating with fellow learners on meaningful projects
+<sub>COMPUTER ENGINEERING</sub>
 
-<br clear="right"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-A78BFA?style=flat-square&labelColor=100B20"/>
 
-> *Curiosity starts the journey; consistent practice turns ideas into reality.*
+</td>
+<td width="70%" valign="middle">
 
----
+## `PLAYER PROFILE`
 
-## ◈ 02 / SKILLS & TECHNOLOGIES
+Hello! I'm **Mahek Tamboli**, a Computer Engineering student passionate about exploring technology, building useful projects, and solving problems through code.
 
-<div align="center">
+- Artificial Intelligence & Machine Learning enthusiast
+- Practising Data Structures and Algorithms in Java
+- Exploring frontend and web development
+- Learning through projects, hackathons, and experimentation
+- Interested in building technology with real-world impact
 
-### `TECH STACK`
+> *Every challenge is an opportunity to level up.*
 
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,git,github,vscode&perline=9&theme=dark" alt="Programming languages and developer tools"/>
+</td>
+</tr>
+</table>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/AI%20%26%20ML-EXPLORING-7C3AED?style=for-the-badge&labelColor=111027"/>
-<img src="https://img.shields.io/badge/DSA-PRACTISING-A78BFA?style=for-the-badge&labelColor=111027"/>
-<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-LEARNING-6D28D9?style=for-the-badge&labelColor=111027"/>
-
-</div>
-
-*My toolkit is evolving as I learn and apply these technologies in projects.*
-
----
-
-## ◈ 03 / FEATURED PROJECTS
+## `01 // SYSTEM ATTRIBUTES`
 
 <div align="center">
 
-| PROJECT | OVERVIEW |
+| ATTRIBUTE | CURRENT STATUS |
 |:---|:---|
-| 🕸️ **GraphVerse** | An educational web project designed to make graph theory concepts easier to explore through a visual, approachable experience. [Live Demo](https://graphverse-eta.vercel.app/) |
-| 🍃 **Food Waste Management** | A community-focused food waste management and redistribution project aiming to help coordinate surplus food donations and reduce waste. |
-| 🏛️ **Virasat — The Heritage of India** | A gamified heritage-learning concept for discovering India's traditions, festivals, art forms, languages, cuisines, clothing, and cultural places. |
-| 🛡️ **Cyber Safety AI** | A project concept exploring how AI-assisted guidance could help people understand suspicious messages, links, and common online threats. |
+| Primary Domain | Computer Engineering |
+| Intelligence | AI & Machine Learning — Exploring |
+| Combat Skills | Java & Data Structures |
+| Development | Web Development |
+| Core Focus | Problem Solving |
+| Mission | Build. Learn. Innovate. |
 
 </div>
 
----
-
-## ◈ 04 / GITHUB ANALYTICS
+## `02 // SKILL INVENTORY`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mahek02007&show_icons=true&rank_icon=github&hide_border=true&bg_color=0B0B18&title_color=C4B5FD&icon_color=A78BFA&text_color=E5E7EB" alt="GitHub statistics"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahek02007&layout=compact&hide_border=true&bg_color=0B0B18&title_color=C4B5FD&text_color=E5E7EB" alt="Most used languages"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,git,github,vscode&theme=dark&perline=5"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=mahek02007&hide_border=true&background=0B0B18&ring=A78BFA&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub contribution streak"/>
+<img src="https://img.shields.io/badge/PYTHON-LEARNING-8B5CF6?style=for-the-badge&labelColor=100B20"/>
+<img src="https://img.shields.io/badge/JAVA-DSA-7C3AED?style=for-the-badge&labelColor=100B20"/>
+<img src="https://img.shields.io/badge/C-PROGRAMMING-A78BFA?style=for-the-badge&labelColor=100B20"/>
+
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-EXPLORING-8B5CF6?style=for-the-badge&labelColor=100B20"/>
+<img src="https://img.shields.io/badge/WEB- DEVELOPMENT-7C3AED?style=for-the-badge&labelColor=100B20"/>
 
 </div>
 
 ---
 
-## ◈ 05 / CONTRIBUTION SNAKE
+## `03 // ACTIVE MISSIONS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🕸️ GRAPHVERSE
+
+<img src="https://img.shields.io/badge/MISSION-EDUCATION-8B5CF6?style=flat-square"/>
+
+An educational web project designed to make graph theory concepts easier to explore through a visual and approachable experience.
+
+**Mission objective:** Visual learning and graph concepts.
+
+[OPEN LIVE PROJECT ↗](https://graphverse-eta.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍃 RESCUEFOOD / FOOD WASTE MANAGEMENT
+
+<img src="https://img.shields.io/badge/MISSION-SOCIAL%20IMPACT-8B5CF6?style=flat-square"/>
+
+A community-focused food redistribution project aiming to coordinate surplus food donations and reduce food waste.
+
+**Mission objective:** Community impact and donation workflows.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ VIRASAT — THE HERITAGE OF INDIA
+
+<img src="https://img.shields.io/badge/MISSION-CULTURE-8B5CF6?style=flat-square"/>
+
+A gamified heritage-learning concept for discovering India's traditions, festivals, art forms, languages, cuisines, clothing, and cultural places.
+
+**Mission objective:** Interactive cultural learning.
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ CYBER SAFETY AI
+
+<img src="https://img.shields.io/badge/MISSION-CYBERSECURITY-8B5CF6?style=flat-square"/>
+
+A project concept exploring AI-assisted guidance to help people understand suspicious messages, links, and common online threats.
+
+**Mission objective:** Cybersecurity awareness.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04 // DEVELOPER STATISTICS`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahek02007&show_icons=true&hide_border=true&bg_color=0B0818&title_color=C4B5FD&icon_color=9D7BFF&text_color=E9E3FF&ring_color=8B5CF6&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahek02007&layout=compact&hide_border=true&bg_color=0B0818&title_color=C4B5FD&text_color=E9E3FF"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=mahek02007&hide_border=true&background=0B0818&ring=9D7BFF&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=E9E3FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAA0C5"/>
+
+</div>
+
+---
+
+## `05 // CONTRIBUTION ENERGY`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahek02007&bg_color=0b0818&color=c4b5fd&line=8b5cf6&point=e9d5ff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## `06 // CONTRIBUTION SNAKE`
 
 <div align="center">
 <picture>
@@ -107,40 +175,44 @@ Hey there! I'm **Mahek Tamboli**, a Computer Engineering student who enjoys lear
 
 ---
 
-## ◈ 06 / CURRENTLY GROWING
+## `07 // CURRENT QUESTS`
 
 <div align="center">
 
-| FOCUS AREA | CURRENT JOURNEY |
-|:---:|:---|
-| JAVA & DSA | Building stronger foundations in Java, DSA, and problem-solving |
-| WEB DEVELOPMENT | Developing practical web projects and learning from real debugging challenges |
-| AI / ML | Exploring AI/ML and responsible real-world applications |
-| COLLABORATION | Improving collaboration, documentation, and project presentation skills |
+| QUEST | OBJECTIVE |
+|:---|:---|
+| JAVA & DSA | Strengthen problem-solving skills |
+| ARTIFICIAL INTELLIGENCE | Explore AI/ML concepts and applications |
+| WEB DEVELOPMENT | Build useful real-world applications |
+| PROJECT DEVELOPMENT | Turn ideas into working solutions |
+| COLLABORATION | Learn and build with developer communities |
 
 </div>
 
 ---
 
-## ◈ 07 / LET'S CONNECT
+## `08 // ESTABLISH CONNECTION`
 
 <div align="center">
 
 <a href="https://github.com/mahek02007">
-<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-ACCESS%20PROFILE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=100B20"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mahek-tamboli-847b0b37a/">
-<img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=100B20"/>
 </a>
 
 <br/><br/>
 
-### `CODE. LEARN. INNOVATE. REPEAT.`
+### `SYSTEM MESSAGE`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:21123D,100:080914&height=140&section=footer" width="100%" alt="Purple footer banner"/>
+**Keep learning. Keep building. Keep evolving.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:6D28D9,50:21123D,100:050510&section=footer"/>
 
 </div>
+
 
 
 
