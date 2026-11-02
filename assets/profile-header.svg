@@ -1,0 +1,36 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
+<defs>
+  <linearGradient id="top" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#311044"/>
+    <stop offset=".5" stop-color="#8b5cf6"/>
+    <stop offset="1" stop-color="#d78bbd"/>
+  </linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#171323"/>
+    <stop offset="1" stop-color="#0d0d16"/>
+  </linearGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="5" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+<rect width="1200" height="430" fill="#0d0d16"/>
+<path d="M0 0H1200V46C1015 62 891 37 711 50C478 68 291 48 0 65Z" fill="url(#top)"/>
+<path d="M0 65C291 48 478 68 711 50C891 37 1015 62 1200 46" fill="none" stroke="#e9d5ff" stroke-opacity=".3"/>
+<text x="600" y="139" text-anchor="middle" fill="#f4efff" font-family="Arial,sans-serif" font-size="43" font-weight="700" letter-spacing="3">MAHEK TAMBOLI</text>
+<path d="M90 166H1110" stroke="#777080" stroke-opacity=".6"/>
+<text x="600" y="195" text-anchor="middle" fill="#c7b7df" font-family="Arial,sans-serif" font-size="16" letter-spacing="2">COMPUTER ENGINEERING · AI / ML EXPLORER · DEVELOPER</text>
+<rect x="302" y="229" width="596" height="151" rx="4" fill="url(#panel)" stroke="#70627f"/>
+<path d="M302 258H898" stroke="#70627f" stroke-opacity=".7"/>
+<circle cx="322" cy="244" r="4" fill="#d78bbd"/>
+<circle cx="337" cy="244" r="4" fill="#a78bfa"/>
+<circle cx="352" cy="244" r="4" fill="#6d5a88"/>
+<text x="600" y="281" text-anchor="middle" fill="#d8b4fe" font-family="monospace" font-size="12" letter-spacing="2">~/MAHEK/PROFILE</text>
+<rect x="390" y="294" width="420" height="66" rx="3" fill="#0a0911" stroke="#443653"/>
+<text x="600" y="336" text-anchor="middle" fill="#e9d5ff" font-family="monospace" font-size="31" filter="url(#glow)">&gt; hello, world_</text>
+<text x="600" y="404" text-anchor="middle" fill="#c084fc" font-family="monospace" font-size="13" letter-spacing="2">SYSTEM ONLINE · WELCOME TO MY PROFILE</text>
+</svg>
