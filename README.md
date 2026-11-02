@@ -128,7 +128,6 @@ An AI-assisted project concept focused on helping users understand suspicious me
 <sub>MADE WITH CODE & CURIOSITY · MAHEK TAMBOLI</sub>
 
 <br/><br/>
-
-<img src="assets/profile-footer.svg" width="100%" alt="Purple gradient footer"/>
+<img src="assets/assets/profile-footer.svg" width="100%" alt="Purple gradient footer"/>
 
 </div>
