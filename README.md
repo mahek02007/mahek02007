@@ -1,15 +1,25 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:050510,35:17102F,70:392078,100:090719&text=MAHEK%20TAMBOLI&fontSize=50&fontColor=EDE9FF&fontAlignY=42&desc=DEVELOPER%20SYSTEM%20%2F%20AI%20%26%20TECHNOLOGY&descSize=15&descAlignY=62&descColor=C4B5FD" />
+# ✦ MAHEK TAMBOLI
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=800&color=BFA7FF&center=true&vCenter=true&width=700&lines=SYSTEM+INITIALIZED...;COMPUTER+ENGINEERING+STUDENT;AI%2FML+EXPLORER;JAVA+%7C+DSA+%7C+WEB+DEVELOPMENT;LEVELING+UP+THROUGH+CODE" />
+### `DEVELOPER SYSTEM  //  AI & TECHNOLOGY`
+
+**COMPUTER ENGINEERING STUDENT · AI/ML EXPLORER · JAVA & DSA**
 
 <br/>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-8B5CF6?style=for-the-badge&labelColor=100B20"/>
-<img src="https://img.shields.io/badge/CLASS-DEVELOPER-6D28D9?style=for-the-badge&labelColor=100B20"/>
-<img src="https://komarev.com/ghpvc/?username=mahek02007&style=for-the-badge&color=8B5CF6&label=VISITORS"/>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-8B5CF6?style=for-the-badge&labelColor=100B20" />
+<img src="https://img.shields.io/badge/CLASS-DEVELOPER-6D28D9?style=for-the-badge&labelColor=100B20" />
+<img src="https://komarev.com/ghpvc/?username=mahek02007&style=for-the-badge&color=8B5CF6&label=VISITORS" />
+
+<br/>
+
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+
+**WELCOME TO MY DEVELOPER PROFILE**
+
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
 
 </div>
 
@@ -19,7 +29,7 @@
 <tr>
 <td width="30%" align="center" valign="middle">
 
-<img src="https://github.com/mahek02007.png" width="170" style="border-radius:50%;" alt="Mahek's GitHub avatar"/>
+<img src="https://github.com/mahek02007.png" width="170" alt="Mahek's GitHub avatar"/>
 
 ### MAHEK TAMBOLI
 
@@ -46,6 +56,8 @@ Hello! I'm **Mahek Tamboli**, a Computer Engineering student passionate about ex
 </tr>
 </table>
 
+---
+
 ## `01 // SYSTEM ATTRIBUTES`
 
 <div align="center">
@@ -54,27 +66,31 @@ Hello! I'm **Mahek Tamboli**, a Computer Engineering student passionate about ex
 |:---|:---|
 | Primary Domain | Computer Engineering |
 | Intelligence | AI & Machine Learning — Exploring |
-| Combat Skills | Java & Data Structures |
-| Development | Web Development |
+| Programming | Java, Python, C |
+| Development | HTML, CSS, JavaScript |
 | Core Focus | Problem Solving |
 | Mission | Build. Learn. Innovate. |
 
 </div>
 
+---
+
 ## `02 // SKILL INVENTORY`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,git,github,vscode&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,git,github,vscode&theme=dark&perline=5" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/PYTHON-LEARNING-8B5CF6?style=for-the-badge&labelColor=100B20"/>
-<img src="https://img.shields.io/badge/JAVA-DSA-7C3AED?style=for-the-badge&labelColor=100B20"/>
-<img src="https://img.shields.io/badge/C-PROGRAMMING-A78BFA?style=for-the-badge&labelColor=100B20"/>
+<img src="https://img.shields.io/badge/PYTHON-LEARNING-8B5CF6?style=for-the-badge&labelColor=100B20" />
+<img src="https://img.shields.io/badge/JAVA-DSA-7C3AED?style=for-the-badge&labelColor=100B20" />
+<img src="https://img.shields.io/badge/C-PROGRAMMING-A78BFA?style=for-the-badge&labelColor=100B20" />
 
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-EXPLORING-8B5CF6?style=for-the-badge&labelColor=100B20"/>
-<img src="https://img.shields.io/badge/WEB- DEVELOPMENT-7C3AED?style=for-the-badge&labelColor=100B20"/>
+<br/>
+
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-EXPLORING-8B5CF6?style=for-the-badge&labelColor=100B20" />
+<img src="https://img.shields.io/badge/WEB-DEVELOPMENT-7C3AED?style=for-the-badge&labelColor=100B20" />
 
 </div>
 
@@ -141,13 +157,13 @@ A project concept exploring AI-assisted guidance to help people understand suspi
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahek02007&show_icons=true&hide_border=true&bg_color=0B0818&title_color=C4B5FD&icon_color=9D7BFF&text_color=E9E3FF&ring_color=8B5CF6&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahek02007&show_icons=true&hide_border=true&bg_color=0B0818&title_color=C4B5FD&icon_color=9D7BFF&text_color=E9E3FF&ring_color=8B5CF6&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahek02007&layout=compact&hide_border=true&bg_color=0B0818&title_color=C4B5FD&text_color=E9E3FF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahek02007&layout=compact&hide_border=true&bg_color=0B0818&title_color=C4B5FD&text_color=E9E3FF" />
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=mahek02007&hide_border=true&background=0B0818&ring=9D7BFF&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=E9E3FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAA0C5"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=mahek02007&hide_border=true&background=0B0818&ring=9D7BFF&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=E9E3FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAA0C5" />
 
 </div>
 
@@ -157,7 +173,7 @@ A project concept exploring AI-assisted guidance to help people understand suspi
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahek02007&bg_color=0b0818&color=c4b5fd&line=8b5cf6&point=e9d5ff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahek02007&bg_color=0b0818&color=c4b5fd&line=8b5cf6&point=e9d5ff&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -196,11 +212,11 @@ A project concept exploring AI-assisted guidance to help people understand suspi
 <div align="center">
 
 <a href="https://github.com/mahek02007">
-<img src="https://img.shields.io/badge/GITHUB-ACCESS%20PROFILE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=100B20"/>
+<img src="https://img.shields.io/badge/GITHUB-ACCESS%20PROFILE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=100B20" />
 </a>
 
 <a href="https://www.linkedin.com/in/mahek-tamboli-847b0b37a/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=100B20"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=100B20" />
 </a>
 
 <br/><br/>
@@ -209,7 +225,13 @@ A project concept exploring AI-assisted guidance to help people understand suspi
 
 **Keep learning. Keep building. Keep evolving.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:6D28D9,50:21123D,100:050510&section=footer"/>
+<br/>
+
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+
+<sub>DESIGNED & DEVELOPED BY MAHEK TAMBOLI</sub>
+
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
 
 </div>
 
